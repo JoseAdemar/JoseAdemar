@@ -1,4 +1,4 @@
-### Hi there 👋 I'm JoseAdemar
+### Hi there 👋 I'm Jose Junior
 
 
 - 🔭 I’m currently working as a software developer with Intersystems Technologies ...
