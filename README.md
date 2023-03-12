@@ -20,7 +20,7 @@
   <img align="center" alt="JoseAdemar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JoseAdemar-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   
-  <img align="right" alt="JoseAdemar-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGM5Q0PfUv0XA/profile-displayphoto-shrink_200_200/0/1628511636957?e=1651104000&v=beta&t=8_5RmHxxuuETJveur-antY5rmAM_oi1Z4Q5GKSPhG4k">
+  
 </div>
   
   ##
